@@ -215,7 +215,7 @@ class RealBankRunner{
           System.out.println("3. Deposit");
           System.out.println("4. Withdrawl");
           System.out.println("5. Exit");
-          System.out.print("Choose an option: ");
+          System.out.print("Please choose an option: ");
 
           int ch = sc.nextInt();
           switch (ch){
